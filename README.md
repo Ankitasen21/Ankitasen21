@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hey 👋
+- 🔭 I’m currently working on resume-builder
+- 🌱 I’m currently learning reactjs, springboot
 <!--
 **Ankitasen21/Ankitasen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

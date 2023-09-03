@@ -1,6 +1,9 @@
 ### Hey 👋
-- 🔭 I’m currently working on resume-builder
-- 🌱 I’m currently learning reactjs, springboot
+- 🔭 I’m currently working on expense tracker
+- 🌱 I’m currently learning typescript, express and spring security
+- 💬 Ask me about anything
+- 😄 Pronouns: she/her
+- 📫 How to reach me: email: senankita894@gmail.com, linkedIn: www.linkedin.com/in/ankita2101
 <!--
 **Ankitasen21/Ankitasen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->

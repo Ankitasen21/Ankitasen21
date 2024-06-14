@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CRM Portfolio Generator**
 
-- 🌱 I’m currently learning **PowerBi**
+- 🌱 I’m currently learning **Angular and PowerBI**
 
 - 💬 Ask me about **c, c++, java, agile**
 
